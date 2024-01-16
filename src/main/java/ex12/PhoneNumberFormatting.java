@@ -17,7 +17,7 @@ public class PhoneNumberFormatting {
         String str = Arrays.toString(nums);
 
         StringBuffer sb = new StringBuffer();
-        for(int i = 0; i < nums.length; i++) {
+        for(int i = 0; i < sizeNums; i++) {
             sb.append(nums[i]);
         }
         sentence = sb.toString();

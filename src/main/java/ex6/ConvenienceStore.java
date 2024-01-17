@@ -1,11 +1,11 @@
 package ex6;
+
 /*
  * quarter: 25 cents / $0.25
  * dime: 10 cents / $0.10
  * nickel: 5 cents / $0.05
  * penny: 1 cent / $0.01
  */
-
 public class ConvenienceStore {
     public static boolean changeEnough(int[] change, double amountDue) {
 
@@ -21,6 +21,5 @@ public class ConvenienceStore {
         } else {
             return false;
         }
-
     }
 }

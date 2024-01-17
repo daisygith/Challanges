@@ -3,6 +3,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+
 public class ConvenienceStoreTest {
     @Test
     public void test1() {

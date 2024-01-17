@@ -86,6 +86,7 @@ Create a method that takes an array of 10 integers (between 0 and 9) and returns
 **(e.g. (555) 555-5555)**.
 
                                         Ex13.
+---------------------------------------------
 
                                         Ex14.
 
@@ -96,12 +97,35 @@ Create a function that takes a string and returns the number (count) of vowels c
 **All test cases are one word and only contain letters.**
 
                                         Ex15.
+---------------------------------------------
 
                                         Ex16.
 Create a function that takes two numbers as arguments *(num, length)* and returns an array of multiples of num until the array length reaches length.
 
 **Notice that num is also included in the returned array.**
 
+                                        Ex17.
+
+Given the shortest side of a 30° by 60° by 90° triangle, find out the other two sides. 
+Return the longest side and medium-length side in that order.
+
+**- 30° by 60° by 90° triangles always follow this rule: let's say the shortest side length is x units, 
+the hypotenuse would be 2x units and the other side would be x * square root of 3.**
+
+**- The results in the Tests are rounded up to 2 decimal places.**
+
+**- Return the result as an array.**
+
+                                        Ex18.
+
+There's a great war between the even and odd numbers. Many numbers already lost their lives in this war and it's your task to end this. 
+You have to determine which group sums larger: the evens, or the odds. 
+The larger group wins.
+
+Create a function that takes an array of integers, sums the even and odd numbers separately, 
+then returns the difference between the sum of the even and odd numbers.
+
+**The given array contains only positive integers.**
 
 
 

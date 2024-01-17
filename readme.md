@@ -85,6 +85,22 @@ Create a function that takes three numbers (the hourly wages of each programmer)
 Create a method that takes an array of 10 integers (between 0 and 9) and returns a string of those numbers formatted as a phone number 
 **(e.g. (555) 555-5555)**.
 
+                                        Ex13.
+
+                                        Ex14.
+
+Create a function that takes a string and returns the number (count) of vowels contained within it.
+
+**- a, e, i, o, u are considered vowels (not y).**
+
+**All test cases are one word and only contain letters.**
+
+                                        Ex15.
+
+                                        Ex16.
+Create a function that takes two numbers as arguments *(num, length)* and returns an array of multiples of num until the array length reaches length.
+
+**Notice that num is also included in the returned array.**
 
 
 

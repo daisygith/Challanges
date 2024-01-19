@@ -127,5 +127,24 @@ then returns the difference between the sum of the even and odd numbers.
 
 **The given array contains only positive integers.**
 
+                                        Ex19.
+
+Create a function that takes an integer and outputs an n x n square solely consisting of the integer n.
+
+**- n >= 0**
+**- If n = 0, return an empty array**
+
+                                        Ex20.
+
+Write a function that finds the sum of an array. Make your function recursive.
+
+**- Return 0 for an empty array.**
+
+                                        Ex21.
+
+Create a function that counts the number of times a particular letter shows up in the word search.
+
+**Always be an array with five sub-arrays.**
+
 
 

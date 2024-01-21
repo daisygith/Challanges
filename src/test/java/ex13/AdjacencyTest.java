@@ -1,9 +1,15 @@
 package ex13;
 
-import org.junit.*;
-import static org.junit.Assert.*;
+import static org.hamcrest.core.Is.is;
 
-public class AdjacentNodesTest {
+import org.junit.BeforeClass;
+import org.junit.Test;
+
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertThat;
+import static org.testng.Assert.assertTrue;
+
+
     public class AdjacencyTest {
 
         private static int[][] graph1;
@@ -99,4 +105,4 @@ public class AdjacentNodesTest {
             assertFalse(AdjacentNodes.adjacent(largeGraph, 21413, 8079));
         }
     }
-}
+

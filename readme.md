@@ -105,6 +105,7 @@ Your task is to determine if two nodes are adjacent in an undirected graph when 
 
 Ex.
 ![graph](src/images/example_graph.PNG)
+
 Adjacency Matrix:
 
 
@@ -179,5 +180,15 @@ Create a function that counts the number of times a particular letter shows up i
 
 **Always be an array with five sub-arrays.**
 
+                                        Ex22.
 
+Write a function that does the following for the given values: add, subtract, divide and multiply. These are simply referred to as the basic arithmetic operations. 
+The variables have to be defined, but in this challenge they will be defined for you. 
+All you have to do is check the variables, do some string to integer conversions, use some if conditions, and apply the arithmetic operation.
+
+**- The numbers and operation are given as strings and should result in an integer value.**
+
+**- If the operation results in an ArithmeticException, then return Integer.MIN_VALUE (e.g. division by zero).**
+
+**- Division results will be rounded down to its integral part.**
 

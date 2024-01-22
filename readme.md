@@ -104,7 +104,7 @@ In the example above, the adjacency matrix looks like:
 Your task is to determine if two nodes are adjacent in an undirected graph when given the adjacency matrix and the two nodes.
 
 Ex.
-![graph](imapes/example_graph.PNG)
+![graph](src/images/example_graph.PNG)
 
 
                                         Ex14.

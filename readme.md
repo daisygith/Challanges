@@ -86,7 +86,26 @@ Create a method that takes an array of 10 integers (between 0 and 9) and returns
 **(e.g. (555) 555-5555)**.
 
                                         Ex13.
----------------------------------------------
+A graph is a set of nodes along with a set of edges connecting the nodes.
+Graphs can be directed or undirected. In a directed graph, each edge has a direction whereas, in an undirected graph, edges do not have direction.
+The graph above is an undirected graph.
+Two nodes in a graph are adjacent if there is an edge between them. 
+In the above example, nodes 0 and 1 are adjacent, but 0 and 2 are not adjacent.
+We can encode graphs using an adjacency matrix. 
+An adjacency matrix for a graph with "n" nodes is an "n * n" matrix where the entry at row "i" and column "j" is a 0 if nodes "i" and "j" are not adjacent, and 1 if nodes "i" and "j" are adjacent.
+
+In the example above, the adjacency matrix looks like:
+
+{ 0, 1, 0, 0 },
+{ 1, 0, 1, 1 },
+{ 0, 1, 0, 1 },
+{ 0, 1, 1, 0 }
+
+Your task is to determine if two nodes are adjacent in an undirected graph when given the adjacency matrix and the two nodes.
+
+Ex.
+![graph](imapes/example_graph.PNG)
+
 
                                         Ex14.
 
@@ -132,6 +151,7 @@ then returns the difference between the sum of the even and odd numbers.
 Create a function that takes an integer and outputs an n x n square solely consisting of the integer n.
 
 **- n >= 0**
+
 **- If n = 0, return an empty array**
 
                                         Ex20.

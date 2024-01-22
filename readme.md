@@ -105,7 +105,20 @@ Your task is to determine if two nodes are adjacent in an undirected graph when 
 
 Ex.
 ![graph](src/images/example_graph.PNG)
+Adjacency Matrix:
 
+
+**{ 0, 1, 0, 0 },**
+
+**{ 1, 0, 1, 1 },**
+
+**{ 0, 1, 0, 1 },**
+
+**{ 0, 1, 1, 0 }**
+
+**- Nodes 0,1 should return true.**
+
+**- Nodes 0,2 should return false.**
 
                                         Ex14.
 

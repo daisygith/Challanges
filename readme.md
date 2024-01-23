@@ -192,3 +192,12 @@ All you have to do is check the variables, do some string to integer conversions
 
 **- Division results will be rounded down to its integral part.**
 
+                                        Ex23.
+Create a function to find only the root value of x in any quadratic equation ax^2 + bx + c.
+The function will take three arguments:
+
+**a as the coefficient of x^2**
+
+**b as the coefficient of x**
+
+**c as the constant term**

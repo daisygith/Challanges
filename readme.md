@@ -207,3 +207,14 @@ Mubashir created a function that takes two numbers a and b and an operator o.
 Function should return the result of the corresponding mathematical function on both numbers. 
 If the operator is not one of the specified characters +, -, /, *, or if there is a division by zero, the function should return null. 
 Help him by fixing the code in the code tab to pass this challenge.
+
+                                        Ex25. "Adding Numbers"
+Create a function that takes two number strings and returns their sum as a string.
+
+Ex:
+
+**add("10", "80") ➞ "90"**
+
+**add("", "20") ➞ "Invalid Operation"**
+
+**- Return "Invalid Operation" If either input is "" or null.**

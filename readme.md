@@ -192,7 +192,7 @@ All you have to do is check the variables, do some string to integer conversions
 
 **- Division results will be rounded down to its integral part.**
 
-                                        Ex23.
+                                        Ex23. "Quadratic Equation"
 Create a function to find only the root value of x in any quadratic equation ax^2 + bx + c.
 The function will take three arguments:
 
@@ -201,3 +201,9 @@ The function will take three arguments:
 **b as the coefficient of x**
 
 **c as the constant term**
+
+                                        Ex24. "Fix Calculator"
+Mubashir created a function that takes two numbers a and b and an operator o. 
+Function should return the result of the corresponding mathematical function on both numbers. 
+If the operator is not one of the specified characters +, -, /, *, or if there is a division by zero, the function should return null. 
+Help him by fixing the code in the code tab to pass this challenge.

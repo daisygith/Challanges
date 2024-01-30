@@ -206,7 +206,7 @@ The function will take three arguments:
 
 Create a function that counts the integer's number of digits.
 
-**Examples: **
+**Examples:**
 
 
 **count(4666) ➞ 4**
@@ -234,6 +234,22 @@ Ex:
 
 **- Return "Invalid Operation" If either input is "" or null.**
 
+------------------------------------------
+
+***- problem with test number 11***
+
                                         Ex27. "Rock, Paper, Scissors"
 
-                                        Ex28. " "
+                                        Ex28. "The Empty Square Sequence"
+In the image below, squares are either empty or filled with a circle.
+
+![graph](src/images/emptySquareSequence.png)
+
+Create a function that takes a number step (which equals HALF the width of a square) and returns the amount of empty squares. 
+The image shows the squares with step 1, 2 and 3. The return value is the number of cells not on a diagonal, which is 0 for the first square, 8 for the second, and 24 for the third.
+
+emptySq(1) ➞ 0
+
+emptySq(3) ➞ 24
+
+emptySq(10) ➞ 360

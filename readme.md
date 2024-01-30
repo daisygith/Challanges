@@ -202,6 +202,21 @@ The function will take three arguments:
 
 **c as the constant term**
 
+                                        Ex24. "Digits Count"
+
+Create a function that counts the integer's number of digits.
+
+**Examples: **
+
+
+**count(4666) ➞ 4**
+
+**count(544) ➞ 3**
+
+**count(318) ➞ 3**
+
+**solve this without using strings.**
+
                                         Ex25. "Fix Calculator"
 Mubashir created a function that takes two numbers a and b and an operator o. 
 Function should return the result of the corresponding mathematical function on both numbers. 
@@ -218,3 +233,7 @@ Ex:
 **add("", "20") ➞ "Invalid Operation"**
 
 **- Return "Invalid Operation" If either input is "" or null.**
+
+                                        Ex27. "Rock, Paper, Scissors"
+
+                                        Ex28. " "

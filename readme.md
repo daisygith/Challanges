@@ -253,3 +253,39 @@ emptySq(1) ➞ 0
 emptySq(3) ➞ 24
 
 emptySq(10) ➞ 360
+
+                                        Ex29. "Video Length"
+You are given the length of a video in minutes. The format is mm:ss (e.g.: "02:54"). 
+Create a function that takes the video length and return it in seconds.
+
+Ex:
+
+**minutesToSeconds("01:00") ➞ 60**
+
+The video length is given as a string.
+If the number of seconds is 60 or over, return -1.
+
+                                        Ex30. "Angled Triangle"
+
+Given three numbers, x, y and z, determine whether they are the edges of a right angled triangle.
+
+Ex:
+
+**rightTriangle(145, 105, 100) ➞ true**
+// This is a less famous example.
+
+**rightTriangle(70, 130, 110) ➞ false**
+// This isn't a right angled triangle
+
+* *Notice the largest side of the triangle might not be the last one passed to the function.*
+
+                                        Ex31. "FailedPassedExam"
+
+The challenge is to fix all of the bugs in this incredibly messy code, which the code in the image might've actually looked like (probably not)! The code given will output the same middle two lines as in the image shown above.
+
+First parameter is the user's score.
+Second parameter is the required score.
+
+**grade_percentage("99%", "85%") ➞ "You PASSED the Exam"**
+
+**grade_percentage("65%", "90%") ➞ "You FAILED the Exam"**

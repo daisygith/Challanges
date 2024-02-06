@@ -22,6 +22,7 @@ public class EuclideanAlgorithm {
 //                break;
 //            }
 //        }
+        //return b;
         return wynik(a,b);
     }
 

@@ -289,3 +289,27 @@ Second parameter is the required score.
 **grade_percentage("99%", "85%") ➞ "You PASSED the Exam"**
 
 **grade_percentage("65%", "90%") ➞ "You FAILED the Exam"**
+
+                                        Ex 32. "Euclidean Algorithm"
+Algorithm
+For the sake of simplicity I'll refer to the first number as "a", the second number as "b", and the remainder as "r". 
+The algorithm can be broken down into four steps:
+
+Ensure that "a" >= "b". If "a" < "b", swap them.
+Find the remainder. Divide "a" by "b" and set "r" as the remainder.
+Is "r" zero? If so terminate the function and return "b" (the second number).
+Set "a" = "b" and "b" = "r" and start the algorithm over again.
+Instructions
+Create a recursive function that returns the GCD between two positive numbers using the Euclidean Algorithm.
+
+Examples
+
+**euclidean(8, 6) ➞ 2**
+
+**euclidean(49, 14) ➞ 7**
+
+Notes
+
+**Remember that to find the remainder of two numbers use the modulus % operator.**
+
+**Both numbers will be positive and neither number will be null.**

@@ -313,3 +313,48 @@ Notes
 **Remember that to find the remainder of two numbers use the modulus % operator.**
 
 **Both numbers will be positive and neither number will be null.**
+
+                                        Ex 33."Binary Search"
+
+For the sake of simplicity I'll refer to the array as "arr", the beginning index as "left", the end index as "right", and the element that we're searching for as "elem". The input for left and right initially will be left = 0 and right = sizeOfArray - 1. The rest of the algorithm can be broken down in five steps:
+
+If "left" > "right" then the search should end as being unsuccessful.
+Set the middle index to the floor division of ("left" + "right") / 2.
+If arr(middle) < "elem", set "left" = middle + 1 and start the algorithm over again.
+Else if arr(middle) > "elem", set "right" = middle - 1 and start the algorithm over again.
+Otherwise, arr(middle) == "elem" and item you're looking for has been found.
+
+Examples:
+
+**binarySearch([1, 11, 14, 15, 32, 64, 67, 88, 92, 94], left, right, 12) ➞ False**
+
+**binarySearch([3, 6, 9, 12, 15, 18, 21, 24, 27, 30], left, right, 27) ➞ True**
+
+Notes
+
+* The array will be an int array and all integers will be positive.
+
+                                        Ex 34. "Boom !"
+
+Create a function that takes an array of numbers and return "Boom!" if the digit 7 appears in the array.
+Otherwise, return "there is no 7 in the array".
+
+Examples:
+
+**sevenBoom([2, 55, 60, 97, 86]) ➞ "Boom!"**
+
+*// 97 contains the number seven.*
+
+**sevenBoom([8, 6, 33, 100]) ➞ "there is no 7 in the array"**
+
+*// None of the items contain 7 within them.*
+
+                                          Ex 35. "Validate PIN"
+
+Create a function that will test if a string is a valid PIN or not via a regular expression.
+
+A valid PIN has:
+
+* Exactly 4 or 6 characters. 
+* Only numeric characters (0-9). 
+* No whitespace.

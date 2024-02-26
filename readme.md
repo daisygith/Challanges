@@ -358,3 +358,15 @@ A valid PIN has:
 * Exactly 4 or 6 characters. 
 * Only numeric characters (0-9). 
 * No whitespace.
+
+
+                                        Ex 36. "Coin Co-Operation"
+
+Separating two people is a wall, and this machine is placed in such a way that both people are able to access it. 
+Spending a coin in this machine will give the person on the other side 3 coins and vice versa.
+
+If both people continually spend coins for each other (SHARING), then they'll both gain a net profit of 2 coins per turn. 
+However, there is always the possibility for someone to act selfishly (STEALING): they spend no coins, yet they still receive the generous 3 coin gift from the other person!
+
+* Assuming that both people start with 3 coins each, create a function that calculates both people's final number of coins. 
+You will be given two arrays of strings, with each string being the words "share" or "steal".

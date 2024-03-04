@@ -370,3 +370,10 @@ However, there is always the possibility for someone to act selfishly (STEALING)
 
 * Assuming that both people start with 3 coins each, create a function that calculates both people's final number of coins. 
 You will be given two arrays of strings, with each string being the words "share" or "steal".
+
+
+                                        Ex 37. "Recursion: Integer Digits Count"
+
+Create a function that recursively counts the integer's number of digits.
+
+* solve this challenge via recursion.

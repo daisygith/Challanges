@@ -360,7 +360,7 @@ A valid PIN has:
 * No whitespace.
 
 
-                                        Ex 36. "Coin Co-Operation"
+                                         Ex 36. "Coin Co-Operation"
 
 Separating two people is a wall, and this machine is placed in such a way that both people are able to access it. 
 Spending a coin in this machine will give the person on the other side 3 coins and vice versa.
@@ -377,3 +377,27 @@ You will be given two arrays of strings, with each string being the words "share
 Create a function that recursively counts the integer's number of digits.
 
 * solve this challenge via recursion.
+
+
+                                        Ex 38. "Consecutive Numbers" 
+
+Create a function that determines whether elements in an array can be re-arranged to fo   
+
+                                        Ex 39. "Recursion: Harshad Number" 
+
+A number is said to be Harshad if it's exactly divisible by the sum of its digits. Create a function that determines whether a number is a Harshad or not.
+
+Example
+
+* isHarshad(75) ➞ false
+  // 7 + 5 = 12
+  // 75 is not exactly divisible by 12
+  * isHarshad(171) ➞ true
+    // 1 + 7 + 1 = 9
+    // 9 exactly divides 171
+ 
+
+                                        Ex 40. "Largest Gap"
+
+Given an array of integers, return the largest gap between the sorted elements of the array.
+

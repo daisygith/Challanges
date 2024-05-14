@@ -401,3 +401,17 @@ Example
 
 Given an array of integers, return the largest gap between the sorted elements of the array.
 
+                                        Ex 41. "Sort by Length"
+
+Create a function that takes a string and returns a string ordered by the length of the words. 
+From shortest to longest word. If there are words with the same amount of letters, order them alphabetically.
+
+                                        Ex 42. "Is the Input Factorial of an Integer?"
+
+Create a function that checks if a given integer is exactly the factorial of an integer or not. true if it is, false otherwise.
+
+Examples
+isFactorial(2) ➞ true
+// 2 = 2 * 1 = 2!
+
+isFactorial(27) ➞ false

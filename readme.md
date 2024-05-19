@@ -429,4 +429,14 @@ Notes
   * The given points always create a triangle.
   * The numbers in the argument array can be positive or negative.
   * There is 0.1 tolerance, so you don't need to round your result.
-  * This challenge is easier than it looks.
+    * This challenge is easier than it looks.
+
+
+                                        Ex 44. "Recursion: Palindrome Word"
+
+Create a recursive function that determines whether a word is a palindrome or not.
+
+* All inputs are in lowercase.
+
+
+

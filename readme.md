@@ -451,3 +451,33 @@ Write a recursive function that mimics (without the use of <<) the left shift op
 
 
 
+
+
+
+
+                                                OTHER EXAMPLE
+
+-------------------------------------------------------------------------------------------
+
+                                              Recursive method
+
+...............................................................................................................................
+
+                                                      ex1
+
+Write a Java recursive method to calculate the factorial of a given positive integer.
+
+
+                                                      ex2
+
+Write a Java recursive method to calculate the sum of all numbers from 1 to n.
+
+
+                                                      ex3
+
+Write a Java recursive method to calculate the nth Fibonacci number.
+
+
+                                                      ex4
+
+Write a Java recursive method to check if a given string is a palindrome.

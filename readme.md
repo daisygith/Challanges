@@ -481,3 +481,24 @@ Write a Java recursive method to calculate the nth Fibonacci number.
                                                       ex4
 
 Write a Java recursive method to check if a given string is a palindrome.
+
+
+                                                      ex5
+
+Write a Java recursive method to calculate the exponentiation of a number (base) raised to a power (exponent).
+
+
+                                                      ex6
+
+Write a Java recursive method to reverse a given string.
+
+
+                                                      ex7
+
+Write a Java recursive method to find the greatest common divisor (GCD) of two numbers.
+
+                                                      
+                                                      ex8
+
+Write a Java recursive method to count the number of occurrences of a specific element in an array.
+

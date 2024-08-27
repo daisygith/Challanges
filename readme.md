@@ -502,3 +502,52 @@ Write a Java recursive method to find the greatest common divisor (GCD) of two n
 
 Write a Java recursive method to count the number of occurrences of a specific element in an array.
 
+
+                                                      ex9.
+
+Write a Java recursive method to find the sum of all odd numbers in an array.
+
+
+                                                      ex10
+
+Write a Java recursive method to find the length of a given string.
+
+
+                                                      ex11.
+
+Write a Java recursive method to generate all possible permutations of a given string.
+
+
+                                                      ex12.
+
+Write a Java recursive method to find the maximum element in an array.
+
+
+                                                      ex13.
+
+Write a Java recursive method to calculate the product of all numbers in an array.
+
+
+                                                        ex14.
+
+Write a Java recursive method to find the sum of the digits of a given integer.
+
+
+                                                      ex15.
+
+Write a Java recursive method to check if a given array is sorted in ascending order.
+
+
+                                                      Math
+
+...............................................................................................................................
+
+
+                                                      ex1.
+
+Write a Java program to round up integer division results.
+
+
+                                                      ex2.
+
+Write a Java program to get whole and fractional parts from a double value.

@@ -551,3 +551,41 @@ Write a Java program to round up integer division results.
                                                       ex2.
 
 Write a Java program to get whole and fractional parts from a double value.
+
+
+                                                      ex3.
+
+Write a Java program to test if a double number is an integer.
+
+
+                                                      ex4.
+
+Write a Java program to round a float number to specified decimals.
+
+
+
+                                                      OOP
+
+...............................................................................................................................
+
+                                                      Java Constructor
+
+----------------------------------------------------------------------------------------------------------------------
+
+                                                      ex1.
+
+Write a Java program to create a class called "Cat" with instance variables name and age. Implement a default constructor that initializes the name to "Unknown" and the age to 0. Print the values of the variables.
+
+                                                      ex2.
+
+Write a Java program to create a class called Dog with instance variables name and color. Implement a parameterized constructor that takes name and color as parameters and initializes the instance variables. Print the values of the variables.
+
+                                                      ex3.
+
+Write a Java program to create a class called "Book" with instance variables title, author, and price. Implement a default constructor and two parameterized constructors:
+
+* One constructor takes title and author as parameters.
+* The other constructor takes title, author, and price as parameters.
+* Print the values of the variables for each constructor.
+
+ex4.
